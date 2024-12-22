@@ -14,7 +14,7 @@ namespace Project.V14
     {
         public FormGuide()
         {
-            InitializeComponent();
+            InitializeComponent(    );
         }
 
         private void textBoxGuide_SBI_Enter(object sender, EventArgs e)
